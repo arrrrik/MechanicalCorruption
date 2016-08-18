@@ -12,8 +12,8 @@ import java.io.File;
 public class CommonProxy {
     public void preInit(FMLPreInitializationEvent e) {
         ModBlocks.init();
-        ModItems.init();
-        ModCrafting.init();
+        // ModItems.init();
+        // ModCrafting.init();
     }
 
     public void init(FMLInitializationEvent e) {
