@@ -1,6 +1,7 @@
-package arrrrik.MechanicalCorruption;
+package arrrrik.MechCor;
 
 
+import arrrrik.MechCor.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
